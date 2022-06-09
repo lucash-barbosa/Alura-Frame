@@ -5,4 +5,4 @@
 
 ## 📁 Acesso
 É possivel acessar o site <a href="https://alura-frame-htlyjccr5-lucaslkj.vercel.app/">aqui</a>
-ou <a href="https://github.com/lucash-barbosa/Barbearia-Alura/archive/refs/heads/master.zip">baixá-lo</a>
+ou <a href="https://github.com/lucash-barbosa/Alura-Frame/archive/refs/heads/master.zip">baixá-lo</a>
