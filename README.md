@@ -4,5 +4,5 @@
 :book: Trabalhando com o modelo MVC no POO
 
 ## 📁 Acesso
-É possivel acessar o site <a href="https://barbearia-alura-gm7y0x3ol-lucaslkj.vercel.app/index.html">aqui</a>
+É possivel acessar o site <a href="https://alura-frame-htlyjccr5-lucaslkj.vercel.app/">aqui</a>
 ou <a href="https://github.com/lucash-barbosa/Barbearia-Alura/archive/refs/heads/master.zip">baixá-lo</a>
