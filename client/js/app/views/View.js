@@ -1,14 +1,14 @@
-class View{
+class View {
 
-    constructor(elemento){
+    constructor(elemento) {
         this._elemento = elemento;
     }
 
-    template(model){
+    template(model) {
         throw new Error("O método template deve ser implementado");
     }
 
-    update(model){
+    update(model) {
         this._elemento.innerHTML = this.template(model);
     }
 }
