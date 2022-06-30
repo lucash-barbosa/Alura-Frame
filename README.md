@@ -4,5 +4,5 @@
 :book: Projeto feito durante o curso de aprofundamento do em MVC, padrão proxy e factory
 
 ## 📁 Acesso
-É possivel acessar o site <a href="https://alura-frame-htlyjccr5-lucaslkj.vercel.app/">aqui</a>
+É possivel acessar o site <a href="https://alura-frame-52fm9oymq-lucaslkj.vercel.app/">aqui</a>
 ou <a href="https://github.com/lucash-barbosa/Alura-Frame/archive/refs/heads/master.zip">baixá-lo</a>
